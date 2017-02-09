@@ -1,0 +1,14 @@
+.card-image h4 {
+  padding: 10px;
+  margin: 5.14rem 0 0.912rem 0;
+}
+
+.card.hoverable {
+  cursor: pointer;
+  cursor: hand;
+}
+
+.card.horizontal .card-image {
+  max-width: 50%;
+  width: 16%;
+}
